@@ -20,6 +20,11 @@
 ### Control de errores cuando la conexion a RabbitMQ no esta activa
 ![alt text](image-2.png)
 
+### Panel RabbitMQ
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
 ## Integrantes
 * Sergio Rodriguez Taborda
 
